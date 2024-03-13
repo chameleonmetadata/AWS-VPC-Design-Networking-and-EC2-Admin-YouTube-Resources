@@ -28,6 +28,6 @@
                     "ec2-instance-connect:maxTunnelDuration": "***Tunnel Duration In Seconds (3600=1 hour)***"          
                 }
             }
-        },       
+        }       
     ]
 }
