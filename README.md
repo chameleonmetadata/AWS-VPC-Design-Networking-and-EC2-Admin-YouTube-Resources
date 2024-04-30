@@ -1,6 +1,8 @@
 ![Chameleon Metadata Logo](https://chameleonmetadata.com/Education/VPC-Setup/images/ChameleonLogoVerySmall.png)
 # Chameleon Metadata's _Two Hours To Expert_ YouTube Series #
 ## "AWS VPC Design, Networking and EC2 Administration" ##
+### The complete set of courseware, instructions and images are found by clicking the link below: 
+*   [Chameleon Metadata Two Hours To Expert: AWS VPC Design, Networking and EC2 Administration](https://chameleonmetadata.com/Education/VPC-Setup/index.html)
 
 ## PART 1: Basic VPC Configuration ##
 
@@ -8,9 +10,9 @@
 
 2: Create VPC Container (Two Methods)
 
-·          VPC and More Wizard  **(= W)**
+* VPC and More Wizard  **(= W)**
 
-·          Manually  **(= M)**
+* Manually  **(= M)**
 
 3: Create VPC Subnets  **(W,M)**
 
@@ -30,7 +32,7 @@
 
 11: Create EC2 Instances  **(M)**
 
-·          **DEMO: Explore The New EC2 Instances Using EC2 Dashboard**
+* **DEMO: Explore The New EC2 Instances Using EC2 Dashboard**
 
 ## PART 2: EC2 Instance Connect Endpoint (EICE) ##
 
@@ -38,13 +40,13 @@
 
 13: Create IAM Policy (EICE Policy)
 
-·          DEMO: Explore New VPC Using EC2 Dashboard with EICE Endpoint
+* **DEMO: Explore New VPC Using EC2 Dashboard with EICE Endpoint**
 
 14: Create IAM Access Key for AWS CLI
 
 15: Configure AWS CLI
 
-·          DEMO: Connect to VPC Using EICE & CLI
+* **DEMO: Connect to VPC Using EICE & CLI**
 
 ## PART 3: Session Manager (SSM) ##
 
@@ -54,4 +56,4 @@
 
 18: Attach IAM Role (SSM & EC2 Role) To EC2 Instances to Be SSM Managed
 
-·          DEMO: Connect to VPC Using SSM & CLI
+* **DEMO: Connect to VPC Using SSM & CLI**
