@@ -1,4 +1,5 @@
-![Chameleon Metadata Logo](https://chameleonmetadata.com/Education/VPC-Setup/images/ChameleonLogoVerySmall.png)
+
+<img src="https://chameleonmetadata.com/Education/VPC-Setup/images/ChameleonLogoVerySmall.png" width="100" height="100" >
 # Chameleon Metadata's _Two Hours To Expert_ YouTube Series #
 ## "AWS VPC Design, Networking and EC2 Administration" ##
 ### The complete set of courseware, instructions and images are found by clicking the link below: 
