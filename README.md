@@ -8,27 +8,27 @@
 
 2: Create VPC Container (Two Methods)
 
-·          VPC and More Wizard  (W)
+·          VPC and More Wizard  **(= W)**
 
-·          Manually  (M)
+·          Manually  **(= M)**
 
-3: Create VPC Subnets  (W,  M)
+3: Create VPC Subnets  **(W,M)**
 
-4: Create Internet Gateway & Attach to VPC  (W, M)
+4: Create Internet Gateway & Attach to VPC  **(W,M)**
 
-5: Create Security Group With SSH, ICMP, HTTP and HTTPS  (W,  M)
+5: Create Security Group With SSH, ICMP, HTTP and HTTPS  **(W,M)**
 
-6: Create Elastic IP's  (M)
+6: Create Elastic IP's  **(M)**
 
-7: Create NAT Gateways  (M)
+7: Create NAT Gateways  **(M)**
 
-8: Create Route Tables & Attach to Internet and NAT Gateways  (W,  M)
+8: Create Route Tables & Attach to Internet and NAT Gateways  **(W,M)**
 
-9: Attach Route Tables to Subnets  (W,  M)
+9: Attach Route Tables to Subnets  **(W,M)**
 
-10: Create Key Pair (.PEM File)  (M)
+10: Create Key Pair (.PEM File)  **(M)**
 
-11: Create EC2 Instances  (M)
+11: Create EC2 Instances  **(M)**
 
 ·          **DEMO: Explore The New EC2 Instances Using EC2 Dashboard**
 
