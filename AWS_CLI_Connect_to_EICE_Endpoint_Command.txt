@@ -1,3 +1,5 @@
----->> Modify variables with "***" (3 changes) to match your AWS details. Then run the following command
+---->> On the local PC/Laptop, open a command prompt and navigate to the directory where the PEM files are located
+---->> Modify variables with "***" (there are three (3) changes) to match your AWS details. 
+---->> Then run the following command
 
 ssh -i <***your-pem-file.pem***> <ec2-user@***i-YourInstanceIDHere***> -o ProxyCommand='aws ec2-instance-connect open-tunnel --instance-id <***i-YourInstanceIDHere***>'
